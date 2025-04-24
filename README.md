@@ -3,92 +3,104 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pise0505/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashpise98@gmail.com)
 
-## Data Scientist @ J&J | ML Engineer | Healthcare Tech
+## Data Scientist @ Novartis | ML Engineer | Healthcare Tech
 
-Building predictive models and scalable data platforms in healthcare. Passionate about ML engineering and system modernization.
+Building GenAI solutions and scalable data platforms in healthcare. Passionate about ML engineering and system modernization.
 
 ### 🔭 Current Focus
-- Developing ML models for medical device analytics
-- Building FastAPI services for data integration
-- Leading Java to Python migration projects
-- Implementing AWS-based data processing solutions
+- Developing GenAI and RAG pipelines for healthcare insights  
+- Fine-tuning foundation models (GPT, BERT, LLaMA)  
+- Building FastAPI microservices for large-scale data integration  
+- Migrating legacy services from Java to Python  
+- Architecting LLMOps pipelines using AWS, Azure, and GCP  
 
 ### 💻 Tech Stack
-```python
-{
-    "languages": ["Python", "JavaScript", "Java"],
-    "cloud": ["AWS (EC2, ElasticSearch, DynamoDB)"],
-    "data": ["PostgreSQL", "DynamoDB", "Pandas", "NumPy"],
-    "ml": ["TensorFlow", "scikit-learn", "XGBoost"],
-    "api": ["FastAPI", "REST", "Pydantic"],
-    "devops": ["Kubernetes", "Jenkins", "Bitbucket"],
-    "viz": ["Tableau", "Matplotlib", "Seaborn"]
-}
-```
+- **Languages**: Python, JavaScript, Java  
+- **Cloud**: AWS, Azure, Google Cloud  
+- **Data**: PostgreSQL, DynamoDB, VectorDB, Pandas, NumPy  
+- **ML**: TensorFlow, scikit-learn, XGBoost, BERT, LLaMA, YOLOv3  
+- **API**: FastAPI, REST, Pydantic  
+- **DevOps**: Kubernetes, Jenkins, Bitbucket, GitHub  
+- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
 
 ### 🚀 Key Projects
 
-#### ML Pipeline Modernization
-- Built predictive models achieving 71% accuracy
-- Implemented ensemble methods for medical analytics
-- Engineered data preprocessing for complex datasets
-- Tech: Python, FastAPI, AWS, ML Models
+#### 🔬 GenAI Platform Engineering @ Novartis
+- **Boosted** LLM inference speed by **40%** with optimized MLOps  
+- **Deployed** fine-tuned GPT/BERT/LLaMA models in production  
+- **Enabled** real-time generative analytics for enterprise teams  
+- *Tech*: Python, Vertex AI, **AWS**, **LangChain**, **FastAPI**
 
-#### System Architecture Transformation
-- Led Java-to-Python migration for 12 service modules
-- Designed microservices handling 100K+ users
-- Implemented Kubernetes orchestration with multiple instances
-- Tech: AWS, Kubernetes, FastAPI, PostgreSQL
+#### 📚 Vector Embeddings & RAG @ J&J
+- **Vectorized 1000+** documents for LLM chunk retrieval  
+- **Improved** retrieval accuracy by **30%** using embeddings  
+- **Integrated** RAG insights into Tableau dashboards  
+- *Tech*: Python, **VectorDB**, **scikit-learn**, **FastAPI**, **GenAI**
 
-#### Healthcare Analytics Dashboard
-- Created COVID-19 impact analysis platform
-- Developed interactive visualization tools
-- Increased client revenue by 4.5%
-- Tech: Python, Tableau, SQL
+#### ⚙️ ML Pipeline Modernization
+- **Achieved 71%** accuracy in predictive models for devices  
+- **Applied** ensemble techniques to medical data  
+- **Built** preprocessing layers for high-dimensional input  
+- *Tech*: Python, **XGBoost**, **FastAPI**, **AWS**
+
+#### 🏗 System Architecture Transformation
+- **Migrated 12** microservices from Java to Python  
+- **Orchestrated** microservices for **100K+ users** on Kubernetes  
+- **Implemented** scalable APIs with FastAPI + PostgreSQL  
+- *Tech*: **Kubernetes**, Python, **Bitbucket**, **AWS**
+
+#### 📊 Healthcare Analytics Dashboard
+- **Developed** COVID-19 visualization platform for client insights  
+- **Drove 4.5%** revenue increase through data storytelling  
+- *Tech*: **Tableau**, Python, **SQL**
 
 ### 📊 Professional Experience
 
-#### Johnson & Johnson (2024-Present)
-- Leading ML research initiatives
-- Developing predictive analytics solutions
-- Architecting cloud-native applications
-- Managing technical modernization projects
+#### Novartis (2025–Present)
+- Leading GenAI platform development and model deployment  
+- Architecting LLMOps pipelines for enterprise-scale models  
+- Enabling cross-cloud AI integrations (AWS, Azure, GCP)  
 
-#### Stevens Institute of Technology (2022-2024)
-- Taught Python and analytics to 70+ students
-- Created real-world data science projects
-- Mentored students in ML/AI concepts
+#### Johnson & Johnson (2024)
+- Built RAG systems and text embedding solutions  
+- Integrated vector search into analytics platforms  
+- Developed pipelines for GenAI performance evaluation  
+
+#### Stevens Institute of Technology (2022–2024)
+- Taught Python, data preprocessing, and visualization  
+- Designed applied analytics problems for 100+ students  
+- Mentored ML/AI projects and real-world case studies  
 
 #### Previous Experience
-- Digital Optimization @ Assurant
-- Full Stack Development @ OnPoint
-- AI Research @ Bennett University
+- Digital Optimization @ Assurant  
+- Full Stack Developer @ OnPoint  
+- AI Research @ Bennett University  
 
 ### 📈 By the Numbers
-- 71% prediction accuracy in ML models
-- 100K+ users served across markets
-- 12 microservices modernized
-- 40+ datasets integrated
-- 70+ students mentored
+- ⚡ 40% faster LLM inference speed  
+- 📊 71% prediction accuracy in ML models  
+- 👥 100K+ users served via scalable APIs  
+- 🧩 12 microservices modernized  
+- 📚 70+ students mentored  
+- 📂 1000+ documents vectorized for LLMs  
 
 ### 🎓 Education
-- M.S. Information Systems, Stevens Institute of Technology
-- B.E. Computer Science, Shivaji University
+- M.S. Information Systems, Stevens Institute of Technology  
+- B.E. Computer Science, Shivaji University  
 
 ### 🛠️ Technical Areas
-- Machine Learning Engineering
-- Cloud Architecture (AWS)
-- API Development
-- Data Pipeline Design
-- System Modernization
-- Technical Leadership
+- Generative AI (RAG, Embeddings, LLMOps)  
+- Machine Learning Engineering  
+- Cloud Architecture (AWS, GCP, Azure)  
+- API Development & Microservices  
+- Data Engineering & System Modernization  
+- Technical Leadership & Mentorship  
 
 ### 📫 Let's Connect!
-Open to discussing:
-- ML in Healthcare
-- System Architecture
-- Data Engineering
-- Technical Mentorship
+Open to discussing:  
+- LLMs & GenAI in Healthcare  
+- MLOps, LLMOps, and Vector Search Systems  
+- System Design & Scalable APIs  
+- Tech Mentorship & Innovation  
 
----
 *"Transforming healthcare through data and engineering"*
